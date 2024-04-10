@@ -164,11 +164,11 @@ bharathi womens college.html
 ```
 
 ## OUTPUT
-![alt text](<map/Screenshot 2024-03-22 050837.png>)
-![alt text](<map/Screenshot 2024-03-22 051446.png>)
-![alt text](<map/Screenshot 2024-03-22 051503.png>)
-![alt text](<map/Screenshot 2024-03-22 051517.png>)
-![alt text](<map/Screenshot 2024-03-22 051530.png>)
-![alt text](<map/Screenshot 2024-03-22 051653.png>)
+![Screenshot 2024-03-22 050837](https://github.com/jyesvanthe/NearMe/assets/150319392/36f86820-34ea-4aae-b163-7ebc2ed7fbe2)
+![Screenshot 2024-03-22 051446](https://github.com/jyesvanthe/NearMe/assets/150319392/9f85f482-a060-4da1-948c-77df167dc4a5)
+![Screenshot 2024-03-22 051503](https://github.com/jyesvanthe/NearMe/assets/150319392/88e3d330-4aa3-4723-a198-1bb475ab3dfa)
+![Screenshot 2024-03-22 051517](https://github.com/jyesvanthe/NearMe/assets/150319392/afaa9ecc-0308-4603-82da-13b144a09db6)
+![Screenshot 2024-03-22 051530](https://github.com/jyesvanthe/NearMe/assets/150319392/21287ad5-45be-4bf5-84ba-8beee474f354)
+![Screenshot 2024-03-22 051653](https://github.com/jyesvanthe/NearMe/assets/150319392/caafe5b9-1b99-48fb-a8c2-cd06c245def9)
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
